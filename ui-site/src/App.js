@@ -1,9 +1,15 @@
 import React from 'react';
 import './App.css';
 
+import { Article } from './Components';
+
 const App = () => {
     return (
-      <h1>App</h1>
+      <div> 
+        <Article />
+
+        App
+      </div>
     )
 }
 
