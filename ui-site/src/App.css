@@ -9,9 +9,7 @@ body {
   background: var(--color-bg);
 }
 
-.App {
-  color: aliceblue;
-}
+
 
 a {
   color: unset;
