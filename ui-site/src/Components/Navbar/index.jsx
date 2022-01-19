@@ -33,7 +33,7 @@ const Navbar = () => {
                 }
                 {togle && (
                     <div className="gpt3__navbar-menu_container scale-up-center">
-                      <div className="gpt3__navbar-menu_container-links">
+                      <div className="gpt3__navbar-min">
                         <p><a href="#home">Home</a></p>
                         <p><a href="#home">What is GPT3 ?</a></p>
                         <p><a href="#home">Open AI</a></p>

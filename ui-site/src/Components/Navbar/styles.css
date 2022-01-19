@@ -94,6 +94,11 @@
 
 }
 
+.gpt3__navbar-min {
+    color: #fff;
+    font-family: var(--font-family);
+}
+
 .gpt3__navbar-menu_container-links {
     display: none;
 }
